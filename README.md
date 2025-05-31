@@ -1,1 +1,3 @@
 # Infotech-Solutions-Internship
+
+I am doing an internship on Data Analytics at Infotech Solutions. This is a 3 months virtual internship. During this internship I made some data analytics projects. You can see my works here...
